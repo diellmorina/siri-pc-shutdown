@@ -5,4 +5,4 @@ compatibility_date = "2026-08-10"
 [[d1_databases]]
 binding = "DB"
 database_name = "siri_commands"
-database_id = "YOUR_DATABASE_ID"
+database_id = "549a9b67-b779-43ce-98e2-9978f2c10c82"
