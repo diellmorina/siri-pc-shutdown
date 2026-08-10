@@ -1,0 +1,8 @@
+name = "siri-pc-shutdown"
+main = "src/index.js"
+compatibility_date = "2026-08-10"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "siri_commands"
+database_id = "YOUR_DATABASE_ID"
